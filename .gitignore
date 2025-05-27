@@ -1,0 +1,15 @@
+# Local-only folders (recursive)
+**/.local/
+
+# Jupyter system
+.ipynb_checkpoints/
+
+# OS/system junk
+.DS_Store
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Optional VSCode extras
+.vscode/settings.local.json
