@@ -1,5 +1,5 @@
 # Local-only folders (recursive)
-**/.local/
+**/.local
 
 # Jupyter system
 .ipynb_checkpoints/

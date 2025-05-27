@@ -1,0 +1,15 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "GitHub Dark",
+  "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "explorer.compactFolders": false,
+  "explorer.sortOrder": "filesFirst",
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/.vscode": true,
+    ".gitignore": false,
+    "**/.local": true,
+  }
+}
